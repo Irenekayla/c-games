@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\new c# project\bin\Debug\net6.0\new c# project.exe
+C:\Users\Admin\OneDrive\Desktop\new c# project\bin\Debug\net6.0\new c# project.deps.json
+C:\Users\Admin\OneDrive\Desktop\new c# project\bin\Debug\net6.0\new c# project.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\new c# project\bin\Debug\net6.0\new c# project.dll
+C:\Users\Admin\OneDrive\Desktop\new c# project\bin\Debug\net6.0\new c# project.pdb
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.dll
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\refint\new c# project.dll
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.pdb
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\new c# project.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\new c# project\obj\Debug\net6.0\ref\new c# project.dll
